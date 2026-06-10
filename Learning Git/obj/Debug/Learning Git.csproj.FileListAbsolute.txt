@@ -1,2 +1,6 @@
 c:\users\acer\documents\visual studio 2012\Projects\Learning Git\Learning Git\bin\Debug\Learning Git.exe.config
+<<<<<<< HEAD
 C:\Users\ELCOT\Desktop\string\Collabration\Learning Git\bin\Debug\Learning Git.exe.config
+=======
+C:\Users\acer\Desktop\Clone\Collabration\Learning Git\bin\Debug\Learning Git.exe.config
+>>>>>>> 22eda2c3beac7192533f008ccf7f6d75589e4d94

@@ -1,1 +1,2 @@
 c:\users\acer\documents\visual studio 2012\Projects\Learning Git\Learning Git\bin\Debug\Learning Git.exe.config
+C:\Users\ELCOT\Desktop\string\Collabration\Learning Git\bin\Debug\Learning Git.exe.config

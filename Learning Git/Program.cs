@@ -11,6 +11,8 @@ namespace Learning_Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Good Afternoon. NOTHING IS IMPOSSIBLE");
+            Console.WriteLine("Perfectly, Imperfect");
+            Console.WriteLine("In the World, Where you can be Anything, BE KIND!");
         }
     }
 }
